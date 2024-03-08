@@ -1,4 +1,4 @@
-Arnesh Batra
+#💫Arnesh Batra
 
 About Me
 Hello! I'm Arnesh Batra, an undergraduate student pursuing a degree in Computer Science and Artificial Intelligence at the Indraprastha Institute of Information Technology, Delhi. I am passionate about leveraging my skills in deep learning, computer vision, and artificial intelligence to contribute innovative solutions to challenging problems.
