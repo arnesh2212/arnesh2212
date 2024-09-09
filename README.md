@@ -1,9 +1,7 @@
 # 💫About Me 
 
-Hello! I'm Arnesh Batra, an undergraduate student pursuing a degree in Computer Science and Artificial Intelligence at the Indraprastha Institute of Information Technology, Delhi. I am passionate about leveraging my skills in deep learning, computer vision, and artificial intelligence to contribute innovative solutions to challenging problems.
+Hello! I'm Arnesh Batra, an  student pursuing a degree in Computer Science and Artificial Intelligence at the Indraprastha Institute of Information Technology, Delhi. I am passionate about leveraging my skills in deep learning, computer vision, and artificial intelligence to contribute innovative solutions to challenging problems.
 
-Education: B.Tech in Computer Science and Artificial Intelligence
-Expected Graduation: August 2027
 
 ## Skills
 I bring a diverse skill set, combining academic knowledge with practical experience in the field. My technical expertise includes:
